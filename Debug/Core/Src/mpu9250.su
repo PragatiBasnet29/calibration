@@ -1,0 +1,5 @@
+mpu9250.c:6:6:MPU9250_CS_Enable	8	static
+mpu9250.c:14:6:MPU9250_CS_Disable	8	static
+mpu9250.c:22:9:MPU9250_Init	16	static
+mpu9250.c:37:6:MPU9250_Write_Register	24	static
+mpu9250.c:57:9:MPU9250_Read_Register	24	static

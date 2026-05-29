@@ -1,0 +1,6 @@
+mpu6500.c:14:9:MPU6500_TEST	16	static
+mpu6500.c:31:6:enable_mpu6500	8	static
+mpu6500.c:39:6:disable_mpu6500	8	static
+mpu6500.c:46:6:MPU6500_Read_Accel	32	static
+mpu6500.c:78:6:MPU6500_Read_Gyro	32	static
+mpu6500.c:109:6:MPU6500_Calibrate	56	static
